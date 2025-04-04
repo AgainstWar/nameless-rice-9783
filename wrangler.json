@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "nameless-rice-9783",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "5c6de358-56c7-4190-8abd-89460b8e2162",
+      "database_name": "nameless-dawn-0a0d-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
